@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="mCal:Core exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mCal_Core_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mCal/javaeeApplication/Core" />
+    </root>
+  </artifact>
+</component>
